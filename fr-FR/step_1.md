@@ -1,0 +1,5 @@
+Jette un coup d'œil à Coolest Projects, la plus grande vitrine technologique du monde pour les jeunes ! Sur le [site web Coolest Projects](https://coolestprojects.org/){:target="_blank"}, tu peux découvrir quand l'inscription des projets est ouverte, et te préparer à inscrire ton projet !
+
+Si tu as réalisé une page web ou un site web, tu peux inscrire ton projet dans la catégorie Web lorsque l'inscription des projets est ouverte. Ton projet n'a pas besoin d'être terminé &mdash; les prototypes et les travaux en cours sont également les bienvenus ! Lorsque tu auras inscrit ton projet, ta création sera présentée dans la [galerie en ligne Coolest Projects](https://online.coolestprojects.org/events/cp-2022/gallery){:target="_blank"} pour que les gens du monde entier puissent la voir ! Rejoins d'autres jeunes pour célébrer et reconnaître les réalisations de chacun en tant que communauté.
+
+Tu peux utiliser les ressources Coolest Projects [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} pour t'aider à trouver une idée de projet.
