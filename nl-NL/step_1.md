@@ -1,0 +1,5 @@
+Bekijk Coolest Projects, werelds toonaangevende technologieshowcase voor jongeren! Op de [Coolest Projects website](https://coolestprojects.org/){:target="_blank"}, kan je erachter komen wanneer de projectregistratie open is en je kunt je project registreren!
+
+Als je een webpagina of website hebt gemaakt, kun je je project registreren in de categorie Web wanneer de registratie van Coolest Projects projecten van start gaat. Je project hoeft niet voltooid te zijn &mdash; prototypes en werk in uitvoering zijn ook welkom! Wanneer je jouw project hebt ingeschreven, zal jouw creatie worden getoond in de [Coolest Projects online galerij](https://online.coolestprojects.org/events/cp-2022/gallery){:target="_blank"} zodat mensen over de hele wereld het kunnen zien! Sluit je aan bij andere jongeren om als één community elkaars prestaties te vieren en te erkennen.
+
+Je kunt de Coolest Projects bronnen [Hoe maak je een project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} gebruiken om je te helpen bij het bedenken van jouw eigen projectidee.
